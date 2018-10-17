@@ -12,7 +12,7 @@
 
 ## What do you need to make linear_reg_normal_equation work ?
 
-* python => 3.0
+* python >= 3.0
 
 * [numpy](http://www.numpy.org/)
 
