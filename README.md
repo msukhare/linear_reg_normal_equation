@@ -6,9 +6,9 @@
 
 * You can use linear_reg_normal_equation like [linear_regression](https://github.com/msukhare/linear_regression).
 
-* I wanna try the [normal equation](https://www.youtube.com/watch?v=NN7mBupK-8o) to train thetas.
-
 * This project was realized without gradient descent, and without cost function.
+
+* I wanna try the [normal equation](https://www.youtube.com/watch?v=NN7mBupK-8o) to train thetas.
 
 ## What do you need to make linear_reg_normal_equation work ?
 
